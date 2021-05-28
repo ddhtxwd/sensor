@@ -1,7 +1,7 @@
 {
-    "name": "SensorBit",
+    "name": "Sensor",
     "version": "0.0.0",
-    "description": "SensorBit",
+    "description": "Sensor",
     "license": "MIT",
     "dependencies": {
         "core": "*",

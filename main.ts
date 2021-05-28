@@ -5,8 +5,8 @@
  */
 
 
-//% weight=100 color=#0fbc11 icon="\uf2eb"
-namespace SensorBit {
+//% weight=100 color=#0fbc11 icon="\uf2db"
+namespace Sensor {
 
 	let COMMAND_I2C_ADDRESS = 0x24
     let DISPLAY_I2C_ADDRESS = 0x34
